@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "lizhvania"
+  },
+  "text": {
+    "more": "blablablablabla",
+    "intro": "The Georgian Dream, the ruling party of Georgia, prepared a new law called the Foreign Agent Law, restricting the activities of organisations or even physical subjects. Regardless of counter-reaction from the civil society, the Parliament of Georgia issued the law by the first hearing and sent it to the Venice commission for review. Hundreds of thousands of civilians in Georgia were concerned by the threat to the democracy of the country, prompting massive protests against the law. After two days of massive protests, in which special police used violence, the government announced to cancel of the law. ",
+    "title": "Foreign Agent Law - Modularity"
+  },
+  "legend": {
+    "edgeLabel": "Relationship between accounts (Quote, Retweet, Reply)",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Twitter account"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Eigenvector Centrality",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
