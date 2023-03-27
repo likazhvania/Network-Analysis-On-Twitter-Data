@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "lizhvania"
+    "text": "Network Analysis"
   },
   "text": {
     "more": "blablablablabla",
@@ -13,7 +13,7 @@
     "title": "Foreign Agent Law - Modularity"
   },
   "legend": {
-    "edgeLabel": "Relationship between accounts\n(Quote, Retweet, Reply)",
+    "edgeLabel": "Relationship between accounts"\n"(Quote, Retweet, Reply)",
     "colorLabel": "Modularity class (communities)",
     "nodeLabel": "Twitter account"
   },
