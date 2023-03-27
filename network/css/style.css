@@ -254,16 +254,17 @@ margin: 0;
 
 #title {
 font-weight: bold;
-color: #737373;
+color: #525252;
 }
 
 #titletext {
 padding: 6px 0 10px 0;
-color: #525252;
+color: #252525;
 }
 
 #info {
 	padding-bottom:15px;
+	color: #525252;
 }
 
 

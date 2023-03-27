@@ -13,7 +13,7 @@
     "title": "Foreign Agent Law - Modularity"
   },
   "legend": {
-    "edgeLabel": "Relationship between accounts (Quote, Retweet, Reply)",
+    "edgeLabel": "Relationship between accounts\n(Quote, Retweet, Reply)",
     "colorLabel": "Modularity class",
     "nodeLabel": "Twitter account"
   },
