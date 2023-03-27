@@ -241,6 +241,13 @@ position:fixed;
 top:0;
 }
 
+#mainpanel:hover {
+    background-color: #AD310B;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
 #mainpanel .b1 {
 padding: 0px 0 0 0;
 }
