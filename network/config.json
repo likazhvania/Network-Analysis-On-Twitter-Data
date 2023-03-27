@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Relationship between accounts\n(Quote, Retweet, Reply)",
-    "colorLabel": "Modularity class",
+    "colorLabel": "Modularity class (communities)",
     "nodeLabel": "Twitter account"
   },
   "features": {
